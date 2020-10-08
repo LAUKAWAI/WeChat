@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">微信</string>
+    <string name="fruitName">fruitName</string>
+    <string name="fruitTiding">fruitTiding</string>
+    <string name="fruitTime">fruitTime</string>
+    <string name="WeChat1">WeChat</string>
+    <string name="WeChat">微信</string>
+    <string name="lianxi">联系人</string>
+    <string name="通讯">通讯录</string>
+    <string name="faxian">发现</string>
+    <string name="wo">我</string>
+    <string name="todo">TODO</string>
+</resources>
